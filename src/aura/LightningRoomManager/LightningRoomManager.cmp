@@ -1,0 +1,11 @@
+<aura:component implements="flexiPage:availableForAllPageTypes" controller="LightningRoomManagerCC">
+	
+    <!-- Component Attributes -->
+    <aura:attribute name="compTitle" type="String"/>
+    
+    <!-- Event Handlers -->
+    <aura:handler name="init" value="{!this}" action="doInit"/>
+    
+    <!-- Component Markup -->
+    
+</aura:component>

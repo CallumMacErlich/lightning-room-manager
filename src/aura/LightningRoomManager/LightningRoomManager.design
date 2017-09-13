@@ -1,0 +1,3 @@
+<design:component >
+    <design:attribute name="compTitle" label="Title" default="Meeting Rooms"/>
+</design:component>
